@@ -2,7 +2,7 @@
 
 Plataforma de vídeos-aulas, onde as pessoas (proffy), pode se cadastrar para dar aulas ou simplesmente quem tiver o interesse em assistir às aulas, podem se cadastrar como aluno.
 
-![Tela Principal](https://github.com/kaique-programmer/Layout_Web_Proffy/blob/master/.github/recorte_barber.png)
+![Tela Principal](https://github.com/kaique-programmer/Layout_Web_Proffy/blob/master/recorte_barber.png)
 
 ## Começando
 
