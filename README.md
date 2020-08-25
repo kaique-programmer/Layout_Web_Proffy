@@ -4,10 +4,6 @@ Plataforma de vídeos-aulas, onde as pessoas (proffy), pode se cadastrar para da
 
 ![Tela Principal](https://github.com/kaique-programmer/Layout_Web_Proffy/blob/master/recorte_barber.png)
 
-## Começando
-
-Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
-
 ## Construído com
 
 * Node.js - Utilizado para o back-end
